@@ -1,23 +1,20 @@
 ## Project Name:  Income Tax Calculator Application
 
 ### Course Title:
-Web Application Development
+LIS 2360 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jared Knorr)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+This assignment utilized javascript to create an income tax calculator that has a filing status feature. 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jkk16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned about America's current income tax system
+2. I learned how to initialize a value for different variables. 
+3. I learned how to estimate tax rates from varying incomes and filing statuses. 
